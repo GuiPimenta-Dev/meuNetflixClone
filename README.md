@@ -1,3 +1,4 @@
-# Projeto para treino de ReactJS
+# Netflix Clone
 
+<img src="gif-whatsappclone.gif">
 

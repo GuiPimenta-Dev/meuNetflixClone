@@ -1,4 +1,4 @@
 # Netflix Clone
 
-<img src="gif-whatsappclone.gif">
+<img src="Webp.net-gifmaker.gif">
 

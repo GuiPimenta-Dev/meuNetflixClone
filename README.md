@@ -2,7 +2,7 @@
 
 <img src="Webp.net-gifmaker.gif">
 
-# Projeto para treinar meus conhecimentos em ReactJS
+# Projeto desenvolvido em ReactJS
 
 Para baixar o projeto, clone o repositório com: 
 
